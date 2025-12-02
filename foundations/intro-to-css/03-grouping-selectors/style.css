@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.alpha,
+.beta {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.alpha {
+    color: white;
+    background-color: black;
+}
+.beta {
+    color: black;
+    background-color: yellow;
+}
