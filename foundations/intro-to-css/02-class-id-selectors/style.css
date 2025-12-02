@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.pink-gang {
+    background-color: rgb(248, 177, 188);
+    font-family: Verdana, Tahoma, "DejaVu Sans", sans-serif;
+}
+.pink-gang.but-cooler {
+    font-size: 24px;
+}
+#sigma {
+    color: rgba(10, 186, 245, 1);
+    font-size: 36px;
+}
+#ryan-gosling {
+    background-color: rgba(154, 228, 152, 1);
+    font-size: 24px;
+    font-weight: bold;
+}
